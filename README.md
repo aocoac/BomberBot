@@ -3,7 +3,8 @@ Open-Source desktop GUI implementation of BomberBot
 
 ## 🖥 Desktop App (Windows / Linux)
 
-Мы готовим полноценное оффлайн-приложение для работы с сервисом без Telegram.\n
+Мы готовим полноценное оффлайн-приложение для работы с сервисом без Telegram.
+
 Ожидается релиз: Q4 2025
 
 Поддерживаемые ОС:
